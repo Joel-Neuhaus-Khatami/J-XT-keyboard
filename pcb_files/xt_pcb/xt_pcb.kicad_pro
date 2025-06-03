@@ -216,15 +216,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "duplicate_reference|1231900|190500|713888a2-8dae-4680-aaf4-bf56c392cf75|a772f706-67bd-4b2d-9e0a-f30c7a275175|||",
-      "global_label_dangling|368300|279400|85a7bbec-585e-4fc4-b90c-3ca2afa5821f|00000000-0000-0000-0000-000000000000|/0d76ce34-a40d-405c-820f-030fec8e9950||",
-      "global_label_dangling|368300|304800|289344bd-a077-4e6b-86c4-d3c8866c5475|00000000-0000-0000-0000-000000000000|/0d76ce34-a40d-405c-820f-030fec8e9950||",
-      "pin_not_connected|1231900|152400|815ced67-19a2-479e-bbd0-0296b81bae8d|00000000-0000-0000-0000-000000000000|/0d76ce34-a40d-405c-820f-030fec8e9950|/0d76ce34-a40d-405c-820f-030fec8e9950|",
-      "pin_not_connected|1320800|152400|8ee24ad8-c2f0-4caa-bca3-2ac9bb1cf677|00000000-0000-0000-0000-000000000000|/0d76ce34-a40d-405c-820f-030fec8e9950|/0d76ce34-a40d-405c-820f-030fec8e9950|",
-      "pin_not_connected|1422400|152400|94419219-e9d8-4562-8987-0e3fba76b074|00000000-0000-0000-0000-000000000000|/0d76ce34-a40d-405c-820f-030fec8e9950|/0d76ce34-a40d-405c-820f-030fec8e9950|",
-      "power_pin_not_driven|444500|254000|ac847ea1-3ce3-443b-9bf5-03afaa27eaae|00000000-0000-0000-0000-000000000000|/0d76ce34-a40d-405c-820f-030fec8e9950|/0d76ce34-a40d-405c-820f-030fec8e9950|"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -478,7 +470,7 @@
       "pos_files": "",
       "specctra_dsn": "",
       "step": "xt_pcb.step",
-      "svg": "",
+      "svg": "./",
       "vrml": ""
     },
     "page_layout_descr_file": ""
