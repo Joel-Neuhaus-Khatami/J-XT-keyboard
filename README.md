@@ -29,7 +29,7 @@ Early visualization of switch matrix (This layout was changed tremendously due t
 ![switch_matrix](https://github.com/user-attachments/assets/95c27249-d844-417f-8f49-6b42e8cd5660)
 
 Switch matrix translated to Kicad schematics
-![pcb_v3](https://github.com/user-attachments/assets/d059478e-083b-4bb1-b892-20b6382b63d1)
+![image](https://github.com/user-attachments/assets/7596c16a-e567-44c9-9e53-6f9ca3beb4c7)
 
 Full schematics of the board
 ![image](https://github.com/user-attachments/assets/af14f865-1b4e-4f7f-9d84-eeea90d02f58)
