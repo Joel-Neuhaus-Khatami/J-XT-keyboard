@@ -7,8 +7,8 @@ The case is inspired by the IBM Model F77, Cherry G80-0418 and the modern NCR80.
 Later angularity and side-bezel thickness was inspired by the Pravetz 16 from the Soviet Union and various NCR G80 varieties, for example the NCR G80-0478.
 
 The pcb is designed with Kailh Hotswap Sockets (Although I just soldered my switches directly), all of which are south facing to avoid Cherry profile interference. 
-In addition, the pcb supports many different layout varieties, such as stepped caps lock, split left- and right shift, and split backspace compatibility.
-These layouts have also been designed to have the correct clearance for the Hotswap footprint.
+The layout is a mix of various layout types, such as the ISO left side 1.25u shift, split right shift, split backspace, which are not changeable.
+It does however support stepped caps lock as well as a regular caps lock.
 The PCB was originally designed with using the ATMega32u4, but after a failed iteration, it was replaced with an RP2040 PCB design instead.
 Using the RP2040 enabled QMK firmware compatibility + VIA.
 Due to the case dimensions, the pcb does not have an onboard USB type C recepticle, rather using a 4-pin Molex Pico EZmate connector and a daughterboard,
@@ -29,7 +29,23 @@ Early visualization of switch matrix (This layout was changed tremendously due t
 ![switch_matrix](https://github.com/user-attachments/assets/95c27249-d844-417f-8f49-6b42e8cd5660)
 
 Switch matrix translated to Kicad schematics
-![pcb_v3](https://github.com/user-attachments/assets/d059478e-083b-4bb1-b892-20b6382b63d1)
+![image](https://github.com/user-attachments/assets/7596c16a-e567-44c9-9e53-6f9ca3beb4c7)
+
+Full schematics of the board
+![image](https://github.com/user-attachments/assets/af14f865-1b4e-4f7f-9d84-eeea90d02f58)
+
+Routed pcb
+![image](https://github.com/user-attachments/assets/8316dd9b-6605-45e0-a0ef-f8e31d03db25)
+
+3D render (front)
+![image](https://github.com/user-attachments/assets/d582d059-bb97-4285-9c5e-ce20aa6f3bf5)
+
+3D render (back)
+![image](https://github.com/user-attachments/assets/0caba6ec-8780-4baa-ae09-b29760d501a7)
+
+
+
+
 
 3. Case
 
