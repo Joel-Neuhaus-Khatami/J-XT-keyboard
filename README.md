@@ -1,6 +1,6 @@
 XT Keyboard Project:
 
-This repo is for all the files used in designing and manufacturing a mechanical keyboard that I made from scratch
+This repo is for all the files used in designing and manufacturing a mechanical keyboard that I made from scratch.
 The keyboard itself is a modified XT layout, which was a very popular layout for 1980's keyboards.
 
 The case is inspired by the IBM Model F77, Cherry G80-0418 and the modern NCR80.
@@ -11,8 +11,9 @@ The layout is a mix of various layout types, such as the ISO left side 1.25u shi
 It does however support stepped caps lock as well as a regular caps lock.
 The PCB was originally designed with using the ATMega32u4, but after a failed iteration, it was replaced with an RP2040 PCB design instead.
 Using the RP2040 enabled QMK firmware compatibility + VIA.
-Due to the case dimensions, the pcb does not have an onboard USB type C recepticle, rather using a 4-pin Molex Pico EZmate connector and a daughterboard,
-in this instance the UDB (Unified Daughterboard) C4.
+Due to the case dimensions, the main intended I/O for the keyboard is not the USB type C Receptible., rather using a 4-pin Molex Pico EZmate connector and a daughterboard,
+in this instance the UDB (Unified Daughterboard) C4. However, a full USB type C receptible + ESD protection diode has been added 
+due to the troubleshooting utility (makes diagnosing issues with PCB and/or daughterboard easier).
 The new RP2040 based pcb introduces new quality of life features, such as readily available GND, 3V, RESET, SWD and SWC pins for ISP programming, making troubleshooting a lot simpler
 should there be need to program the chip's bootloader.
 
