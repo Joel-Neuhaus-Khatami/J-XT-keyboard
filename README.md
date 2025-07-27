@@ -33,19 +33,25 @@ Switch matrix translated to Kicad schematics
 ![image](https://github.com/user-attachments/assets/7596c16a-e567-44c9-9e53-6f9ca3beb4c7)
 
 Full schematics of the board
-![image](https://github.com/user-attachments/assets/af14f865-1b4e-4f7f-9d84-eeea90d02f58)
+<img width="1515" height="888" alt="image" src="https://github.com/user-attachments/assets/29a33aa5-6fb2-451c-b314-a247f4777442" />
+
 
 Routed pcb
-![image](https://github.com/user-attachments/assets/8316dd9b-6605-45e0-a0ef-f8e31d03db25)
+<img width="1601" height="424" alt="image" src="https://github.com/user-attachments/assets/77fc65a9-5f98-4879-9a3c-861407cf9cb7" />
+
 
 3D render (front)
-![image](https://github.com/user-attachments/assets/d582d059-bb97-4285-9c5e-ce20aa6f3bf5)
+<img width="1650" height="565" alt="image" src="https://github.com/user-attachments/assets/fa9deb66-565a-47b0-9787-96a06da01903" />
+
 
 3D render (back)
-![image](https://github.com/user-attachments/assets/0caba6ec-8780-4baa-ae09-b29760d501a7)
+<img width="1670" height="534" alt="image" src="https://github.com/user-attachments/assets/63878cb9-5f0f-4b02-b64d-b80c8ffa0cd2" />
 
+RP2040, Crystal and Debug pins
+<img width="1413" height="840" alt="image" src="https://github.com/user-attachments/assets/322d29d1-e632-4f42-9614-5ec933fc3631" />
 
-
+USB Type C Recepticle, ESD Protection Diode and 4-pin Molex Connector
+<img width="1008" height="840" alt="image" src="https://github.com/user-attachments/assets/321ee1b8-966a-4b30-84e1-ca9c01f73e8b" />
 
 
 3. Case
@@ -73,7 +79,7 @@ Bottom
 ![image](https://github.com/user-attachments/assets/43b9d7e2-eea3-4b82-b5ae-db989650cbc5)
 
 To be posted:
-Produced aluminium case
+Manufactured PCBA and Aluminium case
 
 
 
