@@ -38,6 +38,8 @@ Full schematics of the board
 
 Routed pcb
 <img width="1601" height="424" alt="image" src="https://github.com/user-attachments/assets/77fc65a9-5f98-4879-9a3c-861407cf9cb7" />
+<img width="1314" height="387" alt="image" src="https://github.com/user-attachments/assets/383ed42e-e4f6-4506-ba73-3c281bc07510" />
+<img width="1309" height="373" alt="image" src="https://github.com/user-attachments/assets/c9bf6f6e-9c2c-4844-b9b8-f7c76e3ed8e4" />
 
 
 3D render (front)
