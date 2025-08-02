@@ -33,7 +33,8 @@ Switch matrix translated to Kicad schematics
 ![image](https://github.com/user-attachments/assets/7596c16a-e567-44c9-9e53-6f9ca3beb4c7)
 
 Full schematics of the board
-<img width="1515" height="888" alt="image" src="https://github.com/user-attachments/assets/29a33aa5-6fb2-451c-b314-a247f4777442" />
+<img width="883" height="598" alt="image" src="https://github.com/user-attachments/assets/1e41fbb7-272e-495c-b224-73b4dca478e9" />
+
 
 
 Routed pcb
