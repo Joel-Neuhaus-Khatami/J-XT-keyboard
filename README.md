@@ -51,10 +51,10 @@ Routed pcb
 <img width="1670" height="534" alt="image" src="https://github.com/user-attachments/assets/63878cb9-5f0f-4b02-b64d-b80c8ffa0cd2" />
 
 RP2040, Crystal and Debug pins
-<img width="1413" height="840" alt="image" src="https://github.com/user-attachments/assets/322d29d1-e632-4f42-9614-5ec933fc3631" />
+<img width="1599" height="1226" alt="bilde" src="https://github.com/user-attachments/assets/62eb9494-7fab-4bb0-9ab0-2d8cfe1dd27f" />
 
 USB Type C Recepticle, ESD Protection Diode and 4-pin Molex Connector
-<img width="1008" height="840" alt="image" src="https://github.com/user-attachments/assets/321ee1b8-966a-4b30-84e1-ca9c01f73e8b" />
+<img width="1071" height="1217" alt="bilde" src="https://github.com/user-attachments/assets/8655463c-627f-442e-9d40-b0e63d6718fa" />
 
 
 3. Case
