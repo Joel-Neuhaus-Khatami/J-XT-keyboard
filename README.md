@@ -35,20 +35,16 @@ Switch matrix translated to Kicad schematics
 Full schematics of the board
 <img width="883" height="598" alt="image" src="https://github.com/user-attachments/assets/1e41fbb7-272e-495c-b224-73b4dca478e9" />
 
-
-
 Routed pcb
 <img width="2634" height="851" alt="bilde" src="https://github.com/user-attachments/assets/10958409-800d-4fe8-b5ec-53f38484b790" />
 <img width="2599" height="838" alt="bilde" src="https://github.com/user-attachments/assets/83303975-92e7-427c-95ac-b508fcf2fe02" />
 <img width="2624" height="813" alt="bilde" src="https://github.com/user-attachments/assets/355dc0bd-2a98-4654-b808-0ef46eac364d" />
 
-
 3D render (front)
-<img width="1650" height="565" alt="image" src="https://github.com/user-attachments/assets/fa9deb66-565a-47b0-9787-96a06da01903" />
-
+<img width="3140" height="992" alt="bilde" src="https://github.com/user-attachments/assets/2c651051-5751-4e92-a2b0-3074f3beebcd" />
 
 3D render (back)
-<img width="1670" height="534" alt="image" src="https://github.com/user-attachments/assets/63878cb9-5f0f-4b02-b64d-b80c8ffa0cd2" />
+<img width="3090" height="948" alt="bilde" src="https://github.com/user-attachments/assets/05d28440-9243-46b1-96df-ae4bc6170f0a" />
 
 RP2040, Crystal and Debug pins
 <img width="1599" height="1226" alt="bilde" src="https://github.com/user-attachments/assets/62eb9494-7fab-4bb0-9ab0-2d8cfe1dd27f" />
@@ -62,15 +58,12 @@ USB Type C Recepticle, ESD Protection Diode and 4-pin Molex Connector
 Top case w/ plate
 ![image](https://github.com/user-attachments/assets/9f860870-c5fe-4c5c-9853-4eb4e035fadd)
 
-
 Top and Bottom case side profile
 ![image](https://github.com/user-attachments/assets/20adbc17-2f2d-4fc6-b934-0e6ee397a117)
 ![image](https://github.com/user-attachments/assets/dd33151b-3cc4-4977-9c6c-7f1deee1dfd3)
 
-
 Back view including slit for UDB implementation
 ![image](https://github.com/user-attachments/assets/30c8c7ed-502e-4187-ba88-faa97b426f0f)
-
 
 Inside view of Top case, showing plate top mount + UDB implementation
 ![image](https://github.com/user-attachments/assets/522249ea-5ca1-4010-b5e6-2631f98cf70f)
@@ -80,6 +73,7 @@ Inside view of Bottom case
 
 Bottom
 ![image](https://github.com/user-attachments/assets/43b9d7e2-eea3-4b82-b5ae-db989650cbc5)
+
 
 To be posted:
 Manufactured PCBA and Aluminium case
