@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.3"
     },
-    "CreationDate": "2025-08-13T22:52:28+02:00"
+    "CreationDate": "2025-08-13T22:57:25+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -51,6 +51,16 @@
     {
       "Path": "xt_pcb-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "xt_pcb-F_Silkscreen.gbr",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "xt_pcb-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
