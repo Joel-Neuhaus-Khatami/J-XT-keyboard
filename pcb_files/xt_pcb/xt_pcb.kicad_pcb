@@ -75837,7 +75837,7 @@
 			(size 0.7 0.8)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.25)
-			(uuid "227a7f6c-ba0b-4750-b280-7c3431154397")
+			(uuid "b888ea6b-dd50-44ba-89fe-6aa4fb143b04")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical.step"
