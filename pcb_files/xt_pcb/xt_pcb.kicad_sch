@@ -7115,12 +7115,13 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Downloads:MOLEX_781710004"
+		(property "Footprint" "Connector_Molex:Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical"
 			(at 56.388 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
