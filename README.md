@@ -1,5 +1,7 @@
 XT Keyboard Project:
 
+README OUTDATED: TO BE UPDATED
+
 This repo is for all the files used in designing and manufacturing a mechanical keyboard that I made from scratch.
 The keyboard itself is a modified XT layout, which was a very popular layout for 1980's keyboards.
 
