@@ -16609,12 +16609,12 @@
 			)
 		)
 	)
-	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_2.00u"
+	(footprint "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
 		(layer "F.Cu")
 		(uuid "9d6c3994-b4c6-4413-b6ec-d30c7dead472")
 		(at 389.8 90.455)
-		(descr "Cherry MX keyswitch PCB Mount Keycap 2.00u")
-		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.00u")
+		(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
+		(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
 		(property "Reference" "SW73"
 			(at 0 -8 0)
 			(layer "F.SilkS")
@@ -16673,7 +16673,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "70c141b6-c985-46b5-8902-589b429433e7")
+			(uuid "65b8c12b-597b-46ca-b32e-9b02665a077c")
 		)
 		(fp_line
 			(start -7.1 7.1)
@@ -16683,7 +16683,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a69147a9-664a-4b90-ae96-e6cbb591c171")
+			(uuid "ab3a07bb-cfe8-4321-a119-a54614bca734")
 		)
 		(fp_line
 			(start 7.1 -7.1)
@@ -16693,7 +16693,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "46488a53-80e5-44c9-959f-ce07d66e70a1")
+			(uuid "3535c9b9-417c-4872-8cad-11c1a74740da")
 		)
 		(fp_line
 			(start 7.1 7.1)
@@ -16703,47 +16703,47 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4438e357-a540-4517-a5f4-0a60aa40d9be")
+			(uuid "2716e03c-9067-43ff-894d-c267ad3249a9")
 		)
 		(fp_line
-			(start -19.05 -9.525)
-			(end -19.05 9.525)
+			(start -9.525 -9.525)
+			(end -9.525 9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "51841fee-8200-4073-bf28-02f8a0939189")
+			(uuid "ea0e344d-febf-419a-8682-23e382d32c6d")
 		)
 		(fp_line
-			(start -19.05 9.525)
-			(end 19.05 9.525)
+			(start -9.525 9.525)
+			(end 9.525 9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "e54d702a-a5bf-4547-a03e-d4779be785e8")
+			(uuid "041d3f42-4ba2-4b19-b6d8-751fced2d3f8")
 		)
 		(fp_line
-			(start 19.05 -9.525)
-			(end -19.05 -9.525)
+			(start 9.525 -9.525)
+			(end -9.525 -9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "f2b3ed1f-1ca1-4a21-895a-16175d2b03ae")
+			(uuid "8864ee2a-cdb8-420c-b4b5-dd7651c7a8e0")
 		)
 		(fp_line
-			(start 19.05 9.525)
-			(end 19.05 -9.525)
+			(start 9.525 9.525)
+			(end 9.525 -9.525)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "8746a3e1-7494-4e65-bb6d-6f0f99cd5a86")
+			(uuid "da0a76ab-76a8-4fd5-b3f3-d968b864620e")
 		)
 		(fp_line
 			(start -7 -7)
@@ -16753,7 +16753,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "0bd2bfa5-7773-4a72-82d6-3cc9204bbe9a")
+			(uuid "03ddbbc3-1ab1-4940-8a04-49ff62e540e2")
 		)
 		(fp_line
 			(start -7 7)
@@ -16763,7 +16763,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "7356d76c-1885-4595-aba9-bd8b820b6dd6")
+			(uuid "416d769f-e2b1-4167-bb90-26fd7672447b")
 		)
 		(fp_line
 			(start 7 -7)
@@ -16773,7 +16773,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "d5236e71-2ddf-4285-83cc-e8c9d21d807e")
+			(uuid "2d12f293-d744-48ec-b092-3886cc07c1a0")
 		)
 		(fp_line
 			(start 7 7)
@@ -16783,7 +16783,7 @@
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "80a0775b-3c3b-4e64-be59-a9ae96196292")
+			(uuid "5c1e2b98-fc38-485a-afb6-9f1691719a60")
 		)
 		(fp_line
 			(start -7.25 -7.25)
@@ -16793,7 +16793,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2cd5454a-7bd8-4627-93ea-944eb57f975c")
+			(uuid "f2cd7eab-925b-4452-a35f-9c60e4e4aac8")
 		)
 		(fp_line
 			(start -7.25 7.25)
@@ -16803,7 +16803,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e1ab6e08-e970-475f-9148-077c45c94eca")
+			(uuid "23058079-77a4-4c07-844f-f3d3094bf6de")
 		)
 		(fp_line
 			(start 7.25 -7.25)
@@ -16813,7 +16813,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ade33c52-06e1-4fa3-9b18-a8e54b3d6e5e")
+			(uuid "308bd1a7-37ec-4d03-a634-6600854df8fc")
 		)
 		(fp_line
 			(start 7.25 7.25)
@@ -16823,7 +16823,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "52406a19-7c1e-45d2-af1b-94c61e287416")
+			(uuid "5172d58b-9acd-484a-9d43-a567b36a2f36")
 		)
 		(fp_line
 			(start -7 -7)
@@ -16833,7 +16833,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "de37efa2-3e30-4b5b-9ea2-581b59b77405")
+			(uuid "7dc47b5c-96c4-4c16-90a5-c980b751fc9a")
 		)
 		(fp_line
 			(start -7 7)
@@ -16843,7 +16843,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2b00fcbd-f9e8-4ebe-854b-62d2238c330b")
+			(uuid "aea2086f-7daf-4144-9b04-da9299fd4fb8")
 		)
 		(fp_line
 			(start 7 -7)
@@ -16853,7 +16853,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4f087bf8-f2ec-4cd3-b5ce-37cadeb4e861")
+			(uuid "e6a323d3-61c3-4e18-a192-57dc3f59152f")
 		)
 		(fp_line
 			(start 7 7)
@@ -16863,7 +16863,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "31a5a55d-f519-4092-b0e7-65041b7ba32e")
+			(uuid "7925e934-aa91-42e0-9ec5-4ef047748787")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -16881,21 +16881,21 @@
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "5682004b-a6de-4b7d-950e-b1b96f68ff43")
+			(uuid "36b302fb-3293-402b-a89e-51e006998b1b")
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 4 4)
 			(drill 4)
 			(layers "*.Cu" "*.Mask")
-			(uuid "7eddecac-d142-4968-ba9a-84d179565809")
+			(uuid "9d3474cb-0513-4359-a8b5-1d3ab289205c")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 0)
 			(size 1.75 1.75)
 			(drill 1.75)
 			(layers "*.Cu" "*.Mask")
-			(uuid "1e303ce2-a1b0-4fe0-8589-37eddc65b0d3")
+			(uuid "cbb753b3-22f7-468e-bd12-7b0b26e65cc5")
 		)
 		(pad "1" thru_hole circle
 			(at -3.81 -2.54)
