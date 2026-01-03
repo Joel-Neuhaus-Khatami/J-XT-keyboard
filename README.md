@@ -1,6 +1,7 @@
 XT Keyboard Project:
 
-README OUTDATED: TO BE UPDATED
+NOTE: The RP2040 based design is being replaced with an STM32 variety instead. The readme is thus out of date, however the case files are final
+New pcb and firmware will be merged soon.
 
 This repo is for all the files used in designing and manufacturing a mechanical keyboard that I made from scratch.
 The keyboard itself is a modified XT layout, which was a very popular layout for 1980's keyboards.
