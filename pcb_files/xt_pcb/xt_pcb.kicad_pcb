@@ -32195,7 +32195,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C145956"
+		(property "LCSC" "C588524"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37174,6 +37174,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C80488"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8459b635-0e9e-444d-9d95-d382ad6a9cf2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -42207,6 +42221,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C25744"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "aee44635-5b33-42ad-a0d3-70299551a58a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/eeafc461-24d9-4e6a-8954-9f5c6866eee2")
 		(sheetname "/")
@@ -43359,6 +43387,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C25092"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cbee1c5b-15cb-49c1-bae2-29041eab83de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/4fc3d600-ca50-45d4-baf8-ae530d2a4a7f")
 		(sheetname "/")
@@ -44448,6 +44490,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C25092"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1c823b89-7c9c-4fa6-b8cd-e217d71c3642")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -51771,7 +51827,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C139779"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -56019,7 +56075,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C139779"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -58271,7 +58327,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C52923"
+		(property "LCSC" "C23733"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
