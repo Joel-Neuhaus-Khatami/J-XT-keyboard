@@ -6,23 +6,20 @@ The keyboard itself is a modified XT layout, which was a very popular layout for
 The case is inspired by the IBM Model F77, Cherry G80-0418 and the modern NCR80.
 Later angularity and side-bezel thickness was inspired by the Pravetz 16 from the Soviet Union and various NCR G80 varieties, for example the NCR G80-0478.
 
-The pcb is designed with Kailh Hotswap Sockets (Although I just soldered my switches directly), all of which are south facing to avoid Cherry profile interference. 
+The PCB is designed Cherry style switch sockets meant for soldering,  all of which are south facing to avoid Cherry profile interference. 
 The layout is a mix of various layout types, such as the ISO left side 1.25u shift, split right shift, split backspace, which are not changeable.
 It does however support stepped caps lock as well as a regular caps lock.
-The PCB was originally designed with using the ATMega32u4, but after a failed iteration, it was replaced with an RP2040 PCB design instead.
-Using the RP2040 enabled QMK firmware compatibility + VIA.
-Due to the case dimensions, the main intended I/O for the keyboard is not the USB type C Receptible., rather using a 4-pin Molex Pico EZmate connector and a daughterboard,
-in this instance the UDB (Unified Daughterboard) C4. However, a full USB type C receptible + ESD protection diode has been added 
-due to the troubleshooting utility (makes diagnosing issues with PCB and/or daughterboard easier).
-The new RP2040 based pcb introduces new quality of life features, such as readily available GND, 3V, RESET, SWD and SWC pins for ISP programming, making troubleshooting a lot simpler
-should there be need to program the chip's bootloader.
+The final PCB iteration is designed with an STM32 chip and currently has only QMK firmware compatibility. This design is confirmed working (from the fact that this README is currently being authored with it).
+The PCB was originally designed with using the ATMega32u4 first, then the RP2040, however none of these worked and should be discarded if found in the git history.
+Due to the case dimensions, the main intended I/O for the keyboard is a 4-pin Molex Pico EZmate connector and a daughterboard,
+in this instance the UDB (Unified Daughterboard) C4. For previous iterations, a full USB type C recepticle + ESD protection diode was added, but these were removed to reduce complexity and assembly time. 
 
 1. Layout
 
 ![Capture2](https://github.com/user-attachments/assets/e3e69016-4f0c-4fa5-b3fa-685c7375eff4)
 
 The layout is a mix of the standard HHKB for the Alphanumerical section, XT-esque left side F-row and a 3x5 1U grid inspired by the IBM Model F-77
-
+  
 
 2. Schematics
 
@@ -74,6 +71,10 @@ Inside view of Bottom case
 Bottom
 ![image](https://github.com/user-attachments/assets/43b9d7e2-eea3-4b82-b5ae-db989650cbc5)
 
+
+4. Acknowledgements on PCB design
+
+Given that this project is open source, the shortcomings of the designs and reflections should be acknowledged as its own separate section. The main issue design wise with the PCB is the the 100nF capacitor being on the top rather than the bottom of the PCB. There is no doubt that the capacitor needed to be much closer to RST, however it could have been implemented more elegantly, but this wasn't possible due to time constraints. Also, the board has little/no indicators or tools to perform debugging other than the available BOOT and RST buttons on the back. Indicator lights and available pins for the purposes of debugging would have been useful, and could present a very challenging debugging experience.
 
 To be posted:
 Manufactured PCBA and Aluminium case
